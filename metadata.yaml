@@ -15,5 +15,5 @@
 homepage: "https://visiondefunnel.com"
 documentation: "https://github.com/74minutos/piwik_consent_status/blob/master/README.md"
 versions:
-  - sha:
+  - sha: "08c11bb56d38b4209f7d6b93bf2e1138427a6184"
     changeNotes: Initial release.
