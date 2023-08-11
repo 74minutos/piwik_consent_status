@@ -13,7 +13,7 @@
 # limitations under the License.
 
 homepage: "https://visiondefunnel.com"
-documentation: "https://www.example.com/documentation"
+documentation: "https://github.com/74minutos/piwik_consent_status/blob/master/README.md"
 versions:
-  - sha: 
+  - sha:
     changeNotes: Initial release.
